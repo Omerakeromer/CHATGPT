@@ -29,7 +29,7 @@ print(O+logo6)
 
 lo=(" ---------------------------------- ")
 
-took =('8053469780:AAHnbCYoG3KR_6WP2lvwD0zv0UpxR1Cn3MI')
+took =('7908671303:AAHhs-SmIYl1fxxiULETvmW-U4LI77E7T2w')
 bot = telebot.TeleBot(took)
 @bot.message_handler(commands=['start'])
 def sd(message):
